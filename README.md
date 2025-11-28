@@ -2,9 +2,8 @@
 Structure for running HasegawaWakatani.jl simulations on LUMI
 
 ## Setup
-Run instantiate.sh on a ***login node*** to ensure all packages are installed and pre-compiled:
+Run instantiate.sh on a ***login node***, check that it is executable, to ensure all packages are installed and pre-compiled:
 ```bash
-  chmod +x instantiate.sh
   ./instantiate.sh
 ```
 
